@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~  Copyright 1999-2018 Alibaba Group Holding Ltd.
+  ~  Copyright 1999-2019 Seata.io Group.
   ~
   ~  Licensed under the Apache License, Version 2.0 (the "License");
   ~  you may not use this file except in compliance with the License.
@@ -90,11 +90,6 @@
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
             <version>3.4.8</version>
-        </dependency>
-        <dependency>
-            <groupId>com.coreos</groupId>
-            <artifactId>jetcd-core</artifactId>
-            <version>0.0.2</version>
         </dependency>
         <dependency>
             <groupId>redis.clients</groupId>

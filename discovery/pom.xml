@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~  Copyright 1999-2018 Alibaba Group Holding Ltd.
+  ~  Copyright 1999-2019 Seata.io Group.
   ~
   ~  Licensed under the Apache License, Version 2.0 (the "License");
   ~  you may not use this file except in compliance with the License.
@@ -35,8 +35,8 @@
         <module>seata-discovery-zk</module>
         <module>seata-discovery-redis</module>
         <module>seata-discovery-nacos</module>
+        <module>seata-discovery-etcd3</module>
         <module>seata-discovery-sofa</module>
-
     </modules>
 
     <dependencies>
